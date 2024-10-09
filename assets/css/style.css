@@ -1,0 +1,19 @@
+body 	{font-family: 'Montserrat', sans-serif; background-color: #fff;}
+
+.body{
+	width: 100%;
+}
+
+.solicitar-orcamento{
+	margin-top: 31px !important;
+}
+
+.footer {
+	padding: 10px;
+    margin-bottom: 0px !important;
+    display: block;
+    color: #fff;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
